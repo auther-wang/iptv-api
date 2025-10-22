@@ -3,4 +3,3 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 
-https://image-bed.autherwang.dpdns.org/iptv.m3u
