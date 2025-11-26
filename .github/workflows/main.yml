@@ -15,6 +15,7 @@ jobs:
       matrix:
         operating-system: [ 'ubuntu-latest' ]
     steps:
+      # ========== 以下是原始代码完全保持不变的部分 ==========
       - name: Set branch name
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
@@ -65,3 +66,28 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+      
+      # ========== 以下是新增的 Cloudflare R2 上传功能 ==========
+      - name: Check if file exists
+        id: check_file
+        run: |
+          if [ -f "./output/user_result.m3u" ]; then
+            echo "FILE_EXISTS=true" >> $GITHUB_ENV
+            echo "File exists, will upload to R2"
+          else
+            echo "FILE_EXISTS=false" >> $GITHUB_ENV
+            echo "File does not exist, skipping upload"
+          fi
+      
+      - name: Configure AWS credentials for Cloudflare R2
+        if: env.FILE_EXISTS == 'true'
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          aws-region: auto
+      
+      - name: Upload file to Cloudflare R2 using AWS CLI
+        if: env.FILE_EXISTS == 'true'
+        run: |
+          aws s3 cp ./output/user_result.m3u s3://${{ secrets.R2_BUCKET_PATH }} --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
