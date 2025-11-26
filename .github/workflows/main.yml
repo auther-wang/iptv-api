@@ -65,3 +65,15 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+      - name: Upload to Cloudflare R2
+        if: always()
+        uses: jakebailey/aws-s3-action@master
+        with:
+          command: cp
+          args: --recursive --include "*"
+          source: ./output/user_result.m3u
+          destination: s3://${{ secrets.R2_BUCKET_PATH }}
+          aws_access_key_id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          aws_region: auto
+          endpoint: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
