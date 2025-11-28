@@ -79,15 +79,20 @@ jobs:
             echo "File does not exist, skipping upload"
           fi
       
-      - name: Configure AWS credentials for Cloudflare R2
-        if: env.FILE_EXISTS == 'true'
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          aws-region: us-east-1
-      
-      - name: Upload file to Cloudflare R2 using AWS CLI
+      - name: Install AWS CLI
         if: env.FILE_EXISTS == 'true'
         run: |
+          curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+          unzip awscliv2.zip
+          sudo ./aws/install --update
+          aws --version
+      
+      - name: Upload file to Cloudflare R2
+        if: env.FILE_EXISTS == 'true'
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: us-east-1
+        run: |
           aws s3 cp ./output/user_result.m3u s3://${{ secrets.R2_BUCKET_PATH }} --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          echo "File uploaded successfully to Cloudflare R2"
