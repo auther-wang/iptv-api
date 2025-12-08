@@ -1,11 +1,12 @@
-东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
-深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
-江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
-东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
+东方卫视4K,http://101.35.240.114:88/live.php?id=东方卫视4K
+浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
+江苏卫视4K,http://101.35.240.114:88/live.php?id=江苏卫视4K
+广东卫视4K,http://101.35.240.114:88/live.php?id=广东卫视4K
+深圳卫视4K,http://101.35.240.114:88/live.php?id=深圳卫视
+山东卫视4K,http://101.35.240.114:88/live.php?id=山东卫视4K
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-峨眉电影4K,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8
 CCTV-卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV-电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
