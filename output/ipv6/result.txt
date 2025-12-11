@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-11 23:42:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-12-12 06:50:30,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -897,7 +897,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8$订阅源
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed$订阅源
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源
-象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8$订阅源
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed$订阅源
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8$[BD]衢江新闻综合
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-3.m3u8$订阅源
@@ -1337,12 +1336,12 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd$订阅源
 泰州一套新闻综合,https://stream1.freetv.fun/tai-zhou-yi-tao-xin-wen-zong-he-4.m3u8$订阅源
-涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
-涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
-涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd$订阅源
 涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw$订阅源
 涟水电视台综合,https://lianshui-tv-hls.cm.jstv.com:443/lianshui-tv/lsxw.m3u8$订阅源
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd,$订阅源
+涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
+涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
+涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd$订阅源
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8$订阅源
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd$订阅源
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8$订阅源
@@ -3132,6 +3131,7 @@ NBTV-4,url
 鄞州一套,url
 象山综合,url
 象山电视台新闻综合,url
+象山新闻综合,url
 舟山群岛旅游,url
 舟山公共生活,url
 湖州公共民生,url
