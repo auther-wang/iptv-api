@@ -1,16 +1,12 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-http://iptv.cqshushu.com/jiekou.php?jk=m3u&token=77086904ec08fd55eb40d3b01136d84f
 https://image-bed.autherwang.dpdns.org/iptv_hn1.m3u
-https://image-bed.autherwang.dpdns.org/iptv_hn2.m3u
-https://image-bed.autherwang.dpdns.org/iptv_hn3.m3u
 https://image-bed.autherwang.dpdns.org/iptv_jl.m3u
-#https://image-bed.autherwang.dpdns.org/iptv.m3u
-#https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 #https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 #https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-#https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-#https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
-#https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 #https://live.zbds.top/tv/iptv4.m3u
