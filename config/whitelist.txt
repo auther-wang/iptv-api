@@ -3,5 +3,7 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-https://image-bed.autherwang.dpdns.org/iptv_hn.m3u
+https://image-bed.autherwang.dpdns.org/iptv_hn1.m3u
+https://image-bed.autherwang.dpdns.org/iptv_hn2.m3u
+https://image-bed.autherwang.dpdns.org/iptv_hn3.m3u
 https://image-bed.autherwang.dpdns.org/iptv_jl.m3u
