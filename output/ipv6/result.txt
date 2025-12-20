@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-20 18:57:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-12-21 06:53:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -624,12 +624,12 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv$订阅源
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.ctv$[BD]广东体育
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv$订阅源
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8$订阅源
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-25.ctv$订阅源
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-24.m3u8$订阅源
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-18.ctv$订阅源
@@ -2045,6 +2045,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend$订阅源
 内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569$订阅源
+偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8$订阅源
 
 ☘️河北频道,#genre#
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8$订阅源
@@ -2794,12 +2795,12 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/8888888
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv$订阅源
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.ctv$[BD]广东体育
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv$订阅源
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv$订阅源
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8$订阅源
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv$订阅源
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$订阅源
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
@@ -3447,7 +3448,6 @@ NBTV-4,url
 济南鲁中,url
 青岛城阳,url
 青州电视台文化旅游,url
-青州电视台新闻综合,url
 青州电视台生活,url
 青州综合,url
 济宁公共,url
@@ -3473,6 +3473,7 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
+菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
