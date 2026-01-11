@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-11 06:53:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-11 18:54:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -943,7 +943,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8$订阅源
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed$订阅源
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源
-象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8$订阅源
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed$订阅源
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8$[BD]衢江新闻综合
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-3.m3u8$订阅源
@@ -3060,6 +3059,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/8888888
 快乐垂钓,http://iptv.666230.xyz/iptv/hnyx.php/klcd$订阅源
 快乐垂钓,http://iptv.666230.xyz/iptv/sxg.php/fyzqklcdHDH265_4000$订阅源
 快乐垂钓,https://migu.188766.xyz/?migutoken=786b1099b98396dd627cb3dc7218143f&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy$订阅源
+快乐垂钓,https://migu.188766.xyz/?migutoken=eb6bd2a86f08587ae39231c4be8be5c6&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy$订阅源
 JJ斗地主,https://live.iill.top/douyin/685317364746$订阅源
 
 🪁动画频道,#genre#
@@ -3089,6 +3089,8 @@ JJ斗地主,https://live.iill.top/douyin/685317364746$订阅源
 新动漫,https://tv.iill.top/migu/xdm&token=2f124ab6ac087bc9ff8827f65331bcefcc19f2be5fdb4aa28fe293a39b7c65a6$订阅源
 新动漫,https://tv.iill.top/migu/xdm&token=7ce15d51da8e60be86cc1bde4d856274b2bd781528e9f64ff1d7d9370b9d7268$订阅源
 新动漫,https://migu.188766.xyz/?migutoken=0fb66d5ac60022ceda271785fba4e744&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy$订阅源
+新动漫,https://tv.iill.top/migu/xdm&token=0749f23d5e878af0a55d054879eccdba22a00cca8f13177bf8d0007c856ca9b9$订阅源
+新动漫,https://migu.188766.xyz/?migutoken=e30673f8e72e759480f22426e2b8a6ec&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy$订阅源
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989$订阅源
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000$订阅源
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630$订阅源
@@ -3280,6 +3282,7 @@ NBTV-4,url
 鄞州一套,url
 象山综合,url
 象山电视台新闻综合,url
+象山新闻综合,url
 舟山群岛旅游,url
 舟山公共生活,url
 湖州公共民生,url
@@ -3496,7 +3499,6 @@ NBTV-4,url
 睛彩焦作,url
 邯郸新闻,url
 邢台城生,url
-衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3610,7 +3612,6 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
-菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
