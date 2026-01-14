@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-14 06:55:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-14 19:00:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1597,6 +1597,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8$订阅源
 长沙新闻,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/main.m3u8?stbid=$订阅源
 长沙新闻,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182539/main.m3u8?stbid=$订阅源
+长沙新闻,http://ls.qingting.fm/live/4877.m3u8$订阅源
 长沙政法,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182540/main.m3u8?stbid=$订阅源
 长沙政法,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/main.m3u8?stbid=$订阅源
 长沙女性,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182541/main.m3u8?stbid=$订阅源
@@ -3502,7 +3503,6 @@ NBTV-4,url
 睛彩焦作,url
 邯郸新闻,url
 邢台城生,url
-衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3616,7 +3616,6 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
-菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
