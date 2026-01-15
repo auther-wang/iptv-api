@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-15 06:56:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-15 19:06:52,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1043,6 +1043,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-1.m3u8$订阅源
 平湖新闻综合,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8$订阅源
 平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-2.m3u8$订阅源
+平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he-1.m3u8$订阅源
+平湖新闻综合,https://t.freetv.fun/live/ping-hu-xin-wen-zong-he.m3u8$订阅源
 嵊泗综合,http://goo.bkpcp.top/mg/ssxwzh$订阅源
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8$订阅源
 嵊泗综合,https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-2.m3u8$订阅源
@@ -2334,6 +2336,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 济南综合,https://stream1.freetv.fun/ji-nan-zong-he-1.m3u8$订阅源
 济南新闻综合,https://stream1.freetv.fun/ji-nan-xin-wen-zong-he-7.m3u8$订阅源
 济南新闻综合,https://stream1.freetv.fun/ipv6-ji-nan-xin-wen-zong-he-8.m3u8$订阅源
+济南新闻综合,https://stream1.freetv.fun/ji-nan-zong-he-2.m3u8$订阅源
 济南教育,https://stream1.freetv.fun/ji-nan-jiao-yu-1.m3u8$订阅源
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd$订阅源
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd$订阅源
@@ -3504,6 +3507,7 @@ NBTV-4,url
 睛彩焦作,url
 邯郸新闻,url
 邢台城生,url
+衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3591,6 +3595,7 @@ NBTV-4,url
 济南鲁中,url
 青岛城阳,url
 青州电视台文化旅游,url
+青州电视台新闻综合,url
 青州电视台生活,url
 青州综合,url
 济宁公共,url
@@ -3617,6 +3622,7 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
+菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
