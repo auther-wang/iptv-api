@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-16 07:02:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-16 19:05:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1303,6 +1303,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 南京少儿,https://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8$订阅源
 南京少儿,http://iptv.666230.xyz/iptv/jsyd.php/G_NJSE$订阅源
 南京少儿,http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8$订阅源
+南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8$订阅源
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8$订阅源
 南京教科,http://z.b.bkpcp.top/m.php?id=njkj$订阅源
 南京教科,https://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8$订阅源
@@ -2178,6 +2179,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8$订阅源
 邯郸公共,https://jwcdnqx.hebyun.com.cn/zb/hdgg/1500k/tzwj_video.m3u8$订阅源
 邯郸公共,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8$山东酒店源-cache:http://47.104.102.192/ZHGXTV/Public/json/live_interface.txt-酒店源
+邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8$订阅源
 邯郸科教,https://jwcdnqx.hebyun.com.cn/zb/hdkj/1500k/tzwj_video.m3u8$订阅源
 邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd#https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8$订阅源
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8$订阅源
@@ -3505,9 +3507,7 @@ NBTV-4,url
 周口扶沟,url
 许昌农业科教,url
 睛彩焦作,url
-邯郸新闻,url
 邢台城生,url
-衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3622,7 +3622,6 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
-菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
