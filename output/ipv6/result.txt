@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-17 07:02:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-17 19:00:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1371,6 +1371,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd$订阅源
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867$订阅源
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772$订阅源
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8$订阅源
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861$订阅源
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8$订阅源
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861$订阅源
@@ -3508,7 +3509,6 @@ NBTV-4,url
 许昌农业科教,url
 睛彩焦作,url
 邢台城生,url
-衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3622,7 +3622,6 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
-菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
