@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-28 19:08:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-01-29 07:06:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -3510,6 +3510,7 @@ NBTV-4,url
 许昌农业科教,url
 睛彩焦作,url
 邢台城生,url
+衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3597,6 +3598,7 @@ NBTV-4,url
 济南鲁中,url
 青岛城阳,url
 青州电视台文化旅游,url
+青州电视台新闻综合,url
 青州电视台生活,url
 青州综合,url
 济宁公共,url
@@ -3623,6 +3625,7 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
+菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
