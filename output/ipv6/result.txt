@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-02 19:26:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-02-03 19:23:52,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1870,6 +1870,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-4.m3u8$订阅源
 金川新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he-1.m3u8$订阅源
 金川新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he-4.m3u8$订阅源
+金川新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he.m3u8$订阅源
 长宁综合,http://iptv.666230.xyz/iptv/sxg.php/znzh_2000$订阅源
 雅安公共,http://iptv.666230.xyz/iptv/sxg.php/yagg_2000$订阅源
 雅安雨城,http://iptv.666230.xyz/iptv/sxg.php/ycpd_2000$订阅源
@@ -2868,6 +2869,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern$订阅源
 东森洋片,http://live.catvod.com/smart.php?id=ettvwestern$订阅源
 东森洋片,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern$订阅源
+东森洋片,https://hls.iill.top/api/dsyp/index.m3u8$订阅源
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper$订阅源
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8$订阅源
