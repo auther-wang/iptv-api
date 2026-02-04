@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-04 07:22:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-02-04 19:21:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1735,6 +1735,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 南宁新闻综合,https://stream1.freetv.fun/nan-zhu-xin-wen-zong-he-5.m3u8$订阅源
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-pin-dao-1.m3u8$订阅源
 南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he.m3u8$订阅源
+南宁新闻综合,https://t.freetv.fun/live/nan-zhu-xin-wen-zong-he-1.m3u8$订阅源
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$订阅源
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-1.m3u8$订阅源
 南宁都市生活,https://stream1.freetv.fun/nan-zhu-du-shi-sheng-huo-2.m3u8$订阅源
@@ -1743,6 +1744,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo-1.m3u8$订阅源
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo-pin-dao-1.m3u8$订阅源
 南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo.m3u8$订阅源
+南宁都市生活,https://t.freetv.fun/live/nan-zhu-du-shi-sheng-huo-2.m3u8$订阅源
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8$订阅源
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8$订阅源
 灌阳新闻综合,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8$订阅源
