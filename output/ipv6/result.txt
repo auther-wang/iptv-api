@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-18 19:25:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-02-19 07:10:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -3631,7 +3631,6 @@ NBTV-4,url
 济南鲁中,url
 青岛城阳,url
 青州电视台文化旅游,url
-青州电视台新闻综合,url
 青州电视台生活,url
 青州综合,url
 济宁公共,url
