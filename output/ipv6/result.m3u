@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/auther-wang/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-26 07:04:15
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-26 19:19:27
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -6500,8 +6500,6 @@ url
 #EXTINF:-1 tvg-name="NBTV-4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NBTV-4.png" group-title="🈳无结果频道",NBTV-4
 url
 #EXTINF:-1 tvg-name="丽水新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/丽水新闻.png" group-title="🈳无结果频道",丽水新闻
-url
-#EXTINF:-1 tvg-name="浙江青田" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江青田.png" group-title="🈳无结果频道",浙江青田
 url
 #EXTINF:-1 tvg-name="金华都市农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金华都市农村.png" group-title="🈳无结果频道",金华都市农村
 url

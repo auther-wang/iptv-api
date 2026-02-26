@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-26 07:04:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-02-26 19:19:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -3332,7 +3332,6 @@ NBTV-2,url
 NBTV-3,url
 NBTV-4,url
 丽水新闻,url
-浙江青田,url
 金华都市农村,url
 鄞州二套,url
 鄞州一套,url
