@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-13 06:56:05,http://107.150.60.122/live/cctv1hd.m3u8$订阅源
+2026-03-13 19:10:30,http://107.150.60.122/live/cctv1hd.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8$订阅源
@@ -14,15 +14,15 @@ CCTV-3,http://58.245.255.38:8888/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&a
 CCTV-4,http://107.150.60.122/live/cctv4k.m3u8$订阅源
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$订阅源
 CCTV-4,http://58.245.255.38:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
-CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8$订阅源
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15$订阅源
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13$订阅源
+CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8$订阅源
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$订阅源
 CCTV-5,http://58.245.255.38:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
-CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6$订阅源
+CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://58.245.255.38:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11$订阅源
@@ -34,14 +34,14 @@ CCTV-11,http://58.245.255.38:8888/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&
 CCTV-12,http://107.150.60.122/live/cctv12hd.m3u8$订阅源
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$订阅源
 CCTV-13,http://58.245.255.38:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
-CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8$订阅源
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$订阅源
+CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=8$订阅源
 CCTV-15,http://107.150.60.122/live/cctv15hd.m3u8$订阅源
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$订阅源
 CCTV-15,http://58.245.255.38:8888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=4$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=3$订阅源
+CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=4$订阅源
 CCTV-16,http://58.245.255.38:8888/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$订阅源
 CCTV-17,http://58.245.255.38:8888/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
@@ -53,18 +53,17 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 风云音乐,http://58.245.255.38:8888/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 怀旧剧场,http://58.245.255.38:8888/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 女性时尚,http://58.245.255.38:8888/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
-风云足球,http://202.102.201.244:40022/rtp/238.1.79.57:4592$订阅源
 风云足球,http://58.245.255.38:8888/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub$订阅源
 电视指南,http://58.245.255.38:8888/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 兵器科技,http://58.245.255.38:8888/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 
 📡卫视频道,#genre#
-广东卫视,http://171.83.103.119:9999/rtp/239.254.96.140:8914$订阅源
 广东卫视,http://58.245.255.38:8888/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$订阅源
 浙江卫视,http://58.245.255.38:8888/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8$订阅源
+湖南卫视,http://171.83.103.119:9999/rtp/239.254.96.139:8908$订阅源
 湖南卫视,http://58.245.255.38:8888/tsfile/live/0117_2.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8$订阅源
 湖北卫视,http://58.245.255.38:8888/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
@@ -84,6 +83,7 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 河南卫视,http://58.245.255.38:8888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 江苏卫视,http://58.245.255.38:8888/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8$订阅源
+辽宁卫视,http://171.83.103.119:9999/rtp/239.69.1.71:10066$订阅源
 辽宁卫视,http://58.245.255.38:8888/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 青海卫视,http://107.150.60.122/live/qhws.m3u8$订阅源
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8$订阅源
@@ -109,7 +109,6 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8$订阅源
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed$订阅源
-象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39$订阅源
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://58.245.255.38:8888/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
@@ -118,21 +117,19 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 动漫秀场,http://58.245.255.38:8888/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源
-生活时尚,http://171.83.103.119:9999/rtp/239.69.2.11:11220$订阅源
 生活时尚,http://58.245.255.38:8888/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$订阅源
 
 ☘️重庆频道,#genre#
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd$订阅源
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284$订阅源
 
 ☘️江苏频道,#genre#
-宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd$订阅源
+句容党建,http://jrlive.jrntv.com:80/live/dangjian/playlist.m3u8$订阅源
 宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8$订阅源
+宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd$订阅源
 宜兴新闻,https://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8$订阅源
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs$订阅源
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2$订阅源
-泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1$订阅源
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8$订阅源
 睢宁综合,rtmp://221.229.243.45:1935/live/live1$订阅源
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8$订阅源
@@ -143,19 +140,11 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8$订阅源
 
 ☘️湖南频道,#genre#
-金鹰纪实,http://171.83.103.119:9999/rtp/239.69.1.109:10292$订阅源
 
 ☘️湖北频道,#genre#
 湖北经视,http://www.hiliu.myds.me:18088/rtp/239.69.1.41:9886$订阅源
-湖北生活,http://www.hiliu.myds.me:18088/rtp/239.69.1.205:10872$订阅源
-湖北影视,http://171.83.103.119:9999/rtp/239.69.1.204:10866$订阅源
-湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880$订阅源
 湖北公共,http://171.83.103.119:9999/rtp/239.69.1.40:9880$订阅源
-湖北垄上,http://171.83.103.119:9999/rtp/239.69.1.43:9898$订阅源
-湖北垄上,http://www.hiliu.myds.me:18088/rtp/239.69.1.43:9898$订阅源
-武汉一台新闻综合,http://www.hiliu.myds.me:18088/rtp/239.69.1.145:10506$订阅源
-武汉教育,http://171.83.103.119:9999/rtp/239.69.1.60:9994$订阅源
-武汉教育,http://www.hiliu.myds.me:18088/rtp/239.69.1.60:9994$订阅源
+湖北公共,http://www.hiliu.myds.me:18088/rtp/239.69.1.40:9880$订阅源
 
 ☘️广西频道,#genre#
 南宁公共,rtmp://live.gxrb.com.cn/tv/nntv_gg$订阅源
@@ -167,6 +156,7 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 天等综合,rtmp://live.gxrb.com.cn/gx/tiandeng$订阅源
 天等综合,rtmp://live.gxxw.cn/gx/tiandeng$订阅源
 南宁影视娱乐,rtmp://hls.nntv.cn/nnlive/YSYL_244$订阅源
+南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8$订阅源
 
 ☘️天津频道,#genre#
 天津都市,http://38.75.136.137:98/gslb/dsdqpub/tjtv4.m3u8?auth=testpub$订阅源
@@ -175,6 +165,7 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 
 ☘️四川频道,#genre#
 乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8$订阅源
+井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8$订阅源
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan$订阅源
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing$订阅源
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd$订阅源
@@ -201,12 +192,12 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
+嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8$订阅源
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915$订阅源
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8$订阅源
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8$订阅源
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944$订阅源
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8$订阅源
-西峰综合,http://play.kankanlive.com/live/1683944827526991.m3u8$订阅源
 
 ☘️新疆频道,#genre#
 哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8$订阅源
@@ -221,11 +212,11 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 石河子新闻综合,rtmp://124.88.144.73:1935/live/xwzh$订阅源
 
 ☘️山东频道,#genre#
-青州综合,http://1.94.31.214/php/qilu.php?id=wfqzzh$订阅源
 青州综合,http://43.138.196.212/q0l.php?id=wfqzzh$订阅源
+青州综合,http://1.94.31.214/php/qilu.php?id=wfqzzh$订阅源
 潍坊公共,http://43.138.196.212/q0l.php?id=wfyswy$订阅源
-菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd$订阅源
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8$订阅源
+菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd$订阅源
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd$订阅源
 
 ☘️山西频道,#genre#
@@ -233,6 +224,7 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8$订阅源
 
 ☘️安徽频道,#genre#
+歙县综合,https://ahlive.ahwanyun.cn/live/09c5ad9fdb8a44fbaf152b03f8402589/hls.m3u8$订阅源
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd#rtmp://tv.qmxrmt.com/chan/ch1$订阅源
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1$订阅源
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd$订阅源
@@ -251,14 +243,16 @@ CETV-1,http://58.245.255.38:8888/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&a
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
-陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8$订阅源
+易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8$订阅源
+通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8$订阅源
 
 ☘️青海频道,#genre#
 
 ☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
+凤凰中文,http://171.83.103.119:9999/rtp/239.69.2.20:11274$订阅源
+凤凰资讯,http://171.83.103.119:9999/rtp/239.69.2.19:11268$订阅源
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
 纬来体育,rtmp://60.248.77.83/sat/tv721$订阅源
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源
@@ -273,26 +267,23 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 东森超视,rtmp://f13h.mine.nu/sat/tv331$订阅源
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CHC家庭影院,http://171.83.103.119:9999/rtp/239.69.1.243:11100$订阅源
+CHC动作电影,http://171.83.103.119:9999/rtp/239.69.1.242:11094$订阅源
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8$订阅源
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub$订阅源
 睛彩篮球,http://58.245.255.38:8888/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 睛彩羽毛球,http://58.245.255.38:8888/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 睛彩广场舞,http://58.245.255.38:8888/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
-快乐垂钓,http://171.83.103.119:9999/rtp/239.69.1.142:10488$订阅源
 快乐垂钓,http://58.245.255.38:8888/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 
 🪁动画频道,#genre#
 金鹰卡通,http://111.56.90.5/000000000000/5000000006000040024/index.m3u8$订阅源
-金鹰卡通,http://171.83.103.119:9999/rtp/239.69.1.248:11130$订阅源
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 
 🎮游戏频道,#genre#
-游戏风云,http://171.83.103.119:9999/rtp/239.69.2.8:11202$订阅源
 游戏风云,http://58.245.255.38:8888/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0$吉林酒店源
 
 🎵音乐频道,#genre#
@@ -398,6 +389,7 @@ NBTV-4,url
 鄞州一套,url
 遂昌综合,url
 遂昌新闻综合,url
+象山综合,url
 象山电视台新闻综合,url
 象山新闻综合,url
 衢江新闻综合,url
@@ -483,6 +475,7 @@ NBTV-4,url
 重庆汽摩,url
 荣昌综合,url
 潼南综合,url
+江津新闻综合,url
 武隆综合,url
 大足综合,url
 北碚综合,url
@@ -503,7 +496,6 @@ NBTV-4,url
 南京生活,url
 南通新闻综合,url
 南通都市生活,url
-句容党建,url
 句容影院,url
 句容新闻综合,url
 句容生活,url
@@ -544,6 +536,7 @@ NBTV-4,url
 沛县新闻综合,url
 沭阳综合,url
 泗洪新闻综合,url
+泗阳综合,url
 泗阳资讯,url
 泰州一套新闻综合,url
 泰州三套影视娱乐,url
@@ -591,6 +584,7 @@ NBTV-4,url
 湖南娱乐,url
 湖南国际,url
 湖南公共,url
+金鹰纪实,url
 湖南金鹰纪实,url
 长沙新闻综合,url
 长沙新闻,url
@@ -609,14 +603,19 @@ NBTV-4,url
 娄底综合,url
 云溪新闻综合,url
 湖北综合,url
+湖北生活,url
 湖北教育,url
+湖北影视,url
 湖北公共新闻,url
 湖北经济,url
+湖北垄上,url
+武汉一台新闻综合,url
 武汉二台电视剧,url
 武汉三台科技生活,url
 武汉四台经济,url
 武汉五台文体,url
 武汉六台外语,url
+武汉教育,url
 武汉经济,url
 武汉新闻综合,url
 武汉文体,url
@@ -677,7 +676,6 @@ NBTV-4,url
 乐山公共,url
 乐至综合,url
 九寨沟新闻综合,url
-井研综合,url
 什邡新闻,url
 仁寿综合,url
 凉山新闻综合,url
@@ -894,7 +892,6 @@ NBTV-4,url
 临洮综合,url
 临潭综合,url
 卓尼综合,url
-嘉峪关综合,url
 夏河综合,url
 天水公共,url
 天水新闻综合,url
@@ -920,6 +917,7 @@ NBTV-4,url
 礼县综合,url
 舟曲新闻,url
 西和综合,url
+西峰综合,url
 迭部综合,url
 通渭综合,url
 酒泉综合,url
@@ -1047,7 +1045,6 @@ NBTV-4,url
 合肥公共,url
 合肥新闻,url
 固镇新闻,url
-歙县综合,url
 肥西综合,url
 黟县综合,url
 黄山新闻综合,url
@@ -1148,7 +1145,6 @@ NBTV-4,url
 昆明新闻综合,url
 昆明科学教育,url
 昆明经济生活,url
-易门综合,url
 普洱新闻综合,url
 梁河综合,url
 江川综合,url
@@ -1167,8 +1163,8 @@ NBTV-4,url
 西双版纳公共,url
 西双版纳综合,url
 贡山综合,url
-通海电视台,url
 金平综合,url
+陇川综合,url
 麻栗坡电视台,url
 云南都市,url
 云南娱乐,url
@@ -1212,10 +1208,9 @@ NBTV-4,url
 七台河民生社教,url
 翡翠台,url
 明珠台,url
-凤凰中文,url
-凤凰资讯,url
 凤凰香港,url
 凤凰卫视,url
+TVBS亚洲,url
 香港卫视,url
 J2,url
 Viutv,url
@@ -1227,8 +1222,7 @@ Viutv,url
 Now剧集,url
 Now华剧,url
 靖天资讯,url
-CHC家庭影院,url
-CHC动作电影,url
+CHC高清电影,url
 淘剧场,url
 淘娱乐,url
 淘电影,url
@@ -1300,6 +1294,7 @@ CCTV-5+,url
 福建体育,url
 辽宁体育,url
 山东体育,url
+天津体育,url
 江苏体育,url
 安徽综艺体育,url
 吉林篮球,url
