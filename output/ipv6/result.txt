@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-31 07:08:06,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-03-31 20:04:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1958,6 +1958,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-6.m3u8$订阅源
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-8.m3u8$订阅源
 福建新闻,https://t.freetv.fun/live/fu-jian-xin-wen.m3u8$订阅源
+福建新闻,https://t.freetv.fun/live/fu-jian-xin-wen-1.m3u8$订阅源
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-1.m3u8$订阅源
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-2.m3u8$订阅源
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-3.m3u8$订阅源
@@ -1965,6 +1966,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-5.m3u8$订阅源
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-6.m3u8$订阅源
 福建电视剧,https://t.freetv.fun/live/fu-jian-dian-shi-ju.m3u8$订阅源
+福建电视剧,https://t.freetv.fun/live/fu-jian-dian-shi-ju-1.m3u8$订阅源
 福建经济,https://stream1.freetv.fun/fu-jian-jing-ji-1.m3u8$订阅源
 福建经济,https://stream1.freetv.fun/fu-jian-jing-ji-2.m3u8$订阅源
 福建经济,https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8$订阅源
@@ -1977,6 +1979,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-5.m3u8$订阅源
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-6.m3u8$订阅源
 福建综合,https://t.freetv.fun/live/fu-jian-zong-he.m3u8$订阅源
+福建综合,https://t.freetv.fun/live/fu-jian-zong-he-1.m3u8$订阅源
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv$订阅源
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8$订阅源
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8$订阅源
@@ -1991,6 +1994,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-6.m3u8$订阅源
 福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-7.m3u8$订阅源
 福建少儿,https://t.freetv.fun/live/fu-jian-shao-er.m3u8$订阅源
+福建少儿,https://t.freetv.fun/live/fu-jian-shao-er-1.m3u8$订阅源
 福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-1.m3u8$订阅源
 福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-4.m3u8$订阅源
 福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi.m3u8$订阅源
