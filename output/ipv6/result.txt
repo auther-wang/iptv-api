@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-05 06:59:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-04-05 19:06:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1869,6 +1869,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 绵阳科技,https://stream1.freetv.fun/mian-yang-ke-ji-2.m3u8$订阅源
 绵阳科技,http://iptv.666230.xyz/iptv/sxg.php/myetH265_4000$订阅源
 绵阳科技,https://stream1.freetv.fun/mian-yang-ke-ji-1.m3u8$订阅源
+绵阳科技,https://t.freetv.fun/live/mian-yang-ke-ji.m3u8$订阅源
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
 荥经综合,http://iptv.666230.xyz/iptv/sxg.php/xjdst_2000$订阅源
@@ -3574,6 +3575,7 @@ NBTV-4,url
 许昌农业科教,url
 睛彩焦作,url
 邢台城生,url
+衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3687,6 +3689,7 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
+菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
