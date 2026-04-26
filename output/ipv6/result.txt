@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-26 07:18:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-04-26 19:28:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -3228,6 +3228,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8$订阅源
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+海绵宝宝,https://live.ottiptv.cc/huya/11352919$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
 中华小当家,https://live.iill.top/huya/11342413$订阅源
 中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
@@ -3242,6 +3243,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8$订阅源
 经典动漫,http://luobo.bkpcp.top/yy/24180320$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
+蜡笔小新,https://live.ottiptv.cc/huya/11352970$订阅源
 漫画解说,http://luobo.bkpcp.top/yy/1382735568$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568$订阅源
