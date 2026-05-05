@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-05 19:56:05,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-05-06 07:33:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -953,6 +953,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8$订阅源
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed$订阅源
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源
+象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8$订阅源
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed$订阅源
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8$[BD]衢江新闻综合
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-3.m3u8$订阅源
@@ -3371,7 +3372,6 @@ NBTV-4,url
 鄞州一套,url
 象山综合,url
 象山电视台新闻综合,url
-象山新闻综合,url
 舟山群岛旅游,url
 舟山公共生活,url
 湖州公共民生,url
@@ -3587,7 +3587,6 @@ NBTV-4,url
 许昌农业科教,url
 睛彩焦作,url
 邢台城生,url
-衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3701,7 +3700,6 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
-菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
