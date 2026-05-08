@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-08 07:34:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-05-08 19:55:33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1492,25 +1492,31 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 辽宁北方,https://stream1.freetv.fun/liao-zhu-bei-fang-3.m3u8$订阅源
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8$订阅源
 辽宁北方,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227327/index.m3u8$订阅源
+辽宁北方,https://t.freetv.fun/live/liao-zhu-bei-fang.m3u8$订阅源
 辽宁影视剧,https://stream1.freetv.fun/liao-zhu-ying-shi-ju-1.m3u8$订阅源
 辽宁影视剧,https://stream1.freetv.fun/liao-zhu-ying-shi-ju-2.m3u8$订阅源
 辽宁影视剧,https://stream1.freetv.fun/liao-zhu-ying-shi-ju-3.m3u8$订阅源
+辽宁影视剧,https://t.freetv.fun/live/liao-zhu-ying-shi-ju.m3u8$订阅源
 辽宁教育青少,https://stream1.freetv.fun/liao-zhu-jiao-yu-qing-shao-1.m3u8$订阅源
 辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8$订阅源
 辽宁教育青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8$订阅源
+辽宁教育青少,https://t.freetv.fun/live/liao-zhu-jiao-yu-qing-shao.m3u8$订阅源
 辽宁生活,https://stream1.freetv.fun/liao-zhu-sheng-huo-1.m3u8$订阅源
 辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8$订阅源
 辽宁生活,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227319/index.m3u8$订阅源
+辽宁生活,https://t.freetv.fun/live/liao-zhu-sheng-huo.m3u8$订阅源
 辽宁经济,http://ls.qingting.fm/live/23797.m3u8$订阅源
 辽宁经济,https://stream1.freetv.fun/liao-zhu-jing-ji-2.m3u8$订阅源
 辽宁经济,https://stream1.freetv.fun/liao-zhu-jing-ji-1.m3u8$订阅源
 辽宁经济,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8$订阅源
 辽宁经济,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227322/index.m3u8$订阅源
+辽宁经济,https://t.freetv.fun/live/liao-zhu-jing-ji.m3u8$订阅源
 辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8$订阅源
 辽宁都市,https://stream1.freetv.fun/liao-zhu-du-shi-4.m3u8$订阅源
 辽宁都市,https://stream1.freetv.fun/liao-zhu-du-shi-5.m3u8$订阅源
 辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8$订阅源
 辽宁都市,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227355/index.m3u8$订阅源
+辽宁都市,https://t.freetv.fun/live/liao-zhu-du-shi.m3u8$订阅源
 
 ☘️湖南频道,#genre#
 湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds$订阅源
@@ -2494,12 +2500,15 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1745796321&key=ba85da6410cdc8b830d46c3182ad7775$订阅源
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1746307365&key=85abbfb19768c29f883db499d3c1114f$订阅源
 吉林都市,https://t.freetv.fun/live/ji-lin-du-shi-1.php$订阅源
+吉林都市,https://t.freetv.fun/live/ji-lin-du-shi-3.m3u8$订阅源
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1745796321&key=8386cb03e732cd707a483bb89f1216af$订阅源
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1746307365&key=3501231d172e510eec2f039a508df51d$订阅源
 吉林生活,https://t.freetv.fun/live/ji-lin-sheng-huo-1.php$订阅源
+吉林生活,https://t.freetv.fun/live/ji-lin-sheng-huo-3.m3u8$订阅源
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1745796321&key=b26baf2d67026a93e41fcbbd3f132bc3$订阅源
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746307365&key=c561c31cdce71c6e8e33914bfc43027f$订阅源
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746393735&key=9d6ca0a9c59b1876be2ef4320b7283d8$订阅源
+吉林乡村,https://t.freetv.fun/live/ji-lin-xiang-cun.m3u8$订阅源
 长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8$订阅源
 珲春新闻综合,https://stream1.freetv.fun/hun-chun-xin-wen-zong-he-3.m3u8$订阅源
 
