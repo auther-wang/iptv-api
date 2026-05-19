@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-19 07:43:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-05-19 21:19:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -3322,6 +3322,7 @@ CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 鹿鼎记,https://live.iill.top/huya.php?id=23865080$订阅源
 鹿鼎记,http://live.iill.top/huya.php?id=23865080$订阅源
 鹿鼎记,https://live.ottiptv.cc/yy/28265277$订阅源
+鹿鼎记,http://live.ottiptv.cc/huya/23650774$订阅源
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903$订阅源
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
 西游记,https://live.iill.top/huya/26355861$订阅源
@@ -3334,12 +3335,14 @@ CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 三国演义,https://live.metshop.top/huya/11602081$订阅源
 三国演义,https://live.ottiptv.cc/huya/11602081$订阅源
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081$订阅源
+三国演义,http://live.ottiptv.cc/huya/11602081$订阅源
 水浒传,http://www.clmy.cc:35455/yy/1353873252$订阅源
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667$订阅源
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667$订阅源
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667$订阅源
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667$订阅源
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667$订阅源
+新白娘子传奇,http://live.ottiptv.cc/yy/1354490667$订阅源
 济公游记,http://live.iill.top/yy.php?id=1355265814$订阅源
 封神榜,http://luobo.bkpcp.top/yy/1353426319$订阅源
 封神榜,http://www.clmy.cc:35455/yy/1353426319$订阅源
@@ -3598,7 +3601,6 @@ NBTV-4,url
 许昌农业科教,url
 睛彩焦作,url
 邢台城生,url
-衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3712,7 +3714,6 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
-菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
