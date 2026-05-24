@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-24 08:21:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-05-24 20:33:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -1077,6 +1077,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 嵊泗综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he.m3u8$订阅源
 嵊泗综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he-1.m3u8$订阅源
 嵊泗综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he-3.m3u8$订阅源
+嵊泗综合,https://t.freetv.fun/live/sheng-zhou-xin-wen-zong-he-2.m3u8$订阅源
 嵊泗新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8$订阅源
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 嵊州新闻综合,https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-1.m3u8$订阅源
@@ -1480,6 +1481,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-3.m3u8$订阅源
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8$订阅源
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo-3.m3u8$订阅源
+苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo-1.m3u8$订阅源
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh$订阅源
 苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8$订阅源
 苏州新闻综合,https://t.freetv.fun/live/su-zhou-xin-wen-zong-he.m3u8$订阅源
@@ -1487,9 +1489,11 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-2.m3u8$[HD]苏州生活资讯
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun.m3u8$订阅源
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun-3.m3u8$订阅源
+苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun-1.m3u8$订阅源
 苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8$订阅源
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji.m3u8$订阅源
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji-3.m3u8$订阅源
+苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji-1.m3u8$订阅源
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh$订阅源
 连云港新闻综合,https://migu.188766.xyz/?migutoken=1b0d5ada0a7a68f9bc0ad66f4464a69d&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy$订阅源
 连云港新闻综合,https://stream1.freetv.fun/lian-yun-gang-xin-wen-zong-he-3.ctv$订阅源
@@ -1507,6 +1511,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-1.m3u8$订阅源
 靖江新闻综合,https://stream1.freetv.fun/jing-jiang-xin-wen-zong-he-7.m3u8$订阅源
 靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he-5.m3u8$订阅源
+靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he-2.m3u8$订阅源
 
 ☘️辽宁频道,#genre#
 辽宁北方,https://stream1.freetv.fun/liao-zhu-bei-fang-3.m3u8$订阅源
@@ -1839,6 +1844,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 叙州新闻综合,https://stream1.freetv.fun/xu-zhou-xin-wen-zong-he-7.m3u8$订阅源
 叙州新闻综合,https://t.freetv.fun/live/xu-zhou-xin-wen-zong-he-1-1.m3u8$订阅源
 叙州新闻综合,https://t.freetv.fun/live/xu-zhou-xin-wen-zong-he-2.m3u8$订阅源
+叙州新闻综合,https://t.freetv.fun/live/xu-zhou-xin-wen-zong-he-1.m3u8$订阅源
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd#rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8$订阅源
@@ -1856,6 +1862,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-8.m3u8$订阅源
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.m3u8$订阅源
 大竹新闻综合,https://t.freetv.fun/live/da-zhu-xin-wen-zong-he-1.m3u8$订阅源
+大竹新闻综合,https://t.freetv.fun/live/da-zhu-xin-wen-zong-he.m3u8$订阅源
 宁南综合,http://iptv.666230.xyz/iptv/sxg.php/nnt_4000$订阅源
 宜宾公共,http://iptv.666230.xyz/iptv/sxg.php/ybetH264_2000$订阅源
 宜宾公共,http://iptv.666230.xyz/iptvCCTV1$订阅源
@@ -1884,6 +1891,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-2.m3u8$订阅源
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-3.m3u8$订阅源
 德阳新闻综合,https://t.freetv.fun/live/de-yang-xin-wen-zong-he-1.m3u8$订阅源
+德阳新闻综合,https://t.freetv.fun/live/de-yang-xin-wen-zong-he.m3u8$订阅源
 新都综合,http://iptv.666230.xyz/iptv/sxg.php/xdzhpd_2000$订阅源
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 昭化综合,http://iptv.666230.xyz/iptv/sxg.php/zhxwzh_2000$订阅源
@@ -3641,6 +3649,7 @@ NBTV-4,url
 许昌农业科教,url
 睛彩焦作,url
 邢台城生,url
+衡山,url
 松桃新闻,url
 七星关电视台,url
 凤冈综合,url
@@ -3754,6 +3763,7 @@ NBTV-4,url
 烟台公共,url
 烟台新闻综合,url
 烟台经济科技,url
+菏泽一套新闻综合,url
 菏泽三套影视,url
 菏泽影,url
 菏泽新闻综合,url
