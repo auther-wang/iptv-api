@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-12 07:53:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-06-12 21:44:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -994,6 +994,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3-1.m3u8$订阅源
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-2.m3u8$订阅源
 绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3.m3u8$订阅源
+绍兴新闻综合,https://t.freetv.fun/live/shao-xing-xin-wen-zong-he.m3u8$订阅源
 绍兴文化影院,https://stream1.freetv.fun/shao-xing-wen-hua-ying-yuan-2.m3u8$订阅源
 绍兴文化影院,https://stream1.freetv.fun/shao-xing-wen-hua-ying-yuan-4.m3u8$订阅源
 绍兴文化影院,https://stream1.freetv.fun/shao-xing-wen-hua-ying-yuan-1.m3u8$订阅源
