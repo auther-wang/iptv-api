@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-24 07:13:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-07-24 20:00:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -3594,6 +3594,7 @@ NBTV-4,url
 大竹阳光政务,url
 夹江新闻综合,url
 威远新闻综合,url
+安岳综合,url
 宜宾新闻综合,url
 小金综合,url
 岳池新闻综合,url
