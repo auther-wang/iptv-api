@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-27 11:13:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-08-28 04:26:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -3152,6 +3152,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/8888888
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2$订阅源
 风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-16.m3u8$[BD]cctv风云足球
 风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-19.m3u8$[BD]cctv风云足球
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq$订阅源
 魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq$订阅源
 魅力足球,http://goo.bkpcp.top/mg/mlzq$订阅源
@@ -3924,7 +3925,6 @@ IPTV经典电影,url
 福建体育,url
 天津体育,url
 吉林篮球,url
-足球频道,url
 少儿动画,url
 24H国漫热播,url
 斗破苍穹玄幻剧,url
