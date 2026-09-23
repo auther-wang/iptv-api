@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-23 08:23:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-09-23 23:01:25,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -225,8 +225,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 文化精品,http://45.192.97.170:8880/play/4112.m3u8$订阅源
 文化精品,http://45.192.97.170:8880/play/4238.m3u8$订阅源
 文化精品,http://45.192.97.170:8880/play/4240.m3u8$订阅源
-文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8$订阅源
 文化精品,http://104.152.209.49:8181/720p/ysjp.m3u8$订阅源
+文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8$订阅源
 文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8$订阅源
 文化精品,http://www.xiaomo520.cn:4020/udp/239.252.219.81:5140$订阅源
 央视台球,http://45.192.97.170:8880/play/4117.m3u8$订阅源
@@ -236,8 +236,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 央视台球,http://45.192.97.170:8880/play/2130.m3u8$订阅源
 央视台球,http://45.192.97.170:8880/play/3450.m3u8$订阅源
 央视台球,http://45.192.97.170:8880/play/3603.m3u8$订阅源
-央视台球,http://173.208.212.130:8181/720p/ystq.m3u8$订阅源
 央视台球,http://104.152.209.49:8181/720p/ystq.m3u8$订阅源
+央视台球,http://173.208.212.130:8181/720p/ystq.m3u8$订阅源
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$订阅源
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -245,38 +245,38 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 风云音乐,http://45.192.97.170:8880/play/4120.m3u8$订阅源
 风云音乐,http://45.192.97.170:8880/play/4247.m3u8$订阅源
 风云音乐,http://45.192.97.170:8880/play/4248.m3u8$订阅源
-风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8$订阅源
 风云音乐,http://104.152.209.49:8181/720p/fyyy.m3u8$订阅源
+风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8$订阅源
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8$订阅源
 风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140$订阅源
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc$订阅源
-第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc$订阅源
 第一剧场,http://45.192.97.170:8880/play/4105.m3u8$订阅源
 第一剧场,http://45.192.97.170:8880/play/4106.m3u8$订阅源
 第一剧场,http://45.192.97.170:8880/play/4233.m3u8$订阅源
 第一剧场,http://45.192.97.170:8880/play/4234.m3u8$订阅源
-第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8$订阅源
+第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc$订阅源
+第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc$订阅源
 第一剧场,http://104.152.209.49:8181/720p/dyjc.m3u8$订阅源
+第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8$订阅源
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc$订阅源
 风云剧场,http://45.192.97.170:8880/play/4103.m3u8$订阅源
 风云剧场,http://45.192.97.170:8880/play/4104.m3u8$订阅源
 风云剧场,http://45.192.97.170:8880/play/4231.m3u8$订阅源
 风云剧场,http://45.192.97.170:8880/play/4232.m3u8$订阅源
-风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8$订阅源
+风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc$订阅源
 风云剧场,http://104.152.209.49:8181/720p/fyjc.m3u8$订阅源
+风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8$订阅源
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8$订阅源
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8$订阅源
 怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc$订阅源
 怀旧剧场,http://45.192.97.170:8880/play/4101.m3u8$订阅源
 怀旧剧场,http://45.192.97.170:8880/play/4102.m3u8$订阅源
 怀旧剧场,http://45.192.97.170:8880/play/4229.m3u8$订阅源
 怀旧剧场,http://45.192.97.170:8880/play/4230.m3u8$订阅源
-怀旧剧场,http://173.208.212.130:8181/720p/hjjc.m3u8$订阅源
+怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc$订阅源
 怀旧剧场,http://104.152.209.49:8181/720p/hjjc.m3u8$订阅源
+怀旧剧场,http://173.208.212.130:8181/720p/hjjc.m3u8$订阅源
 怀旧剧场,https://cc06.tv12.xyz/52.m3u8$订阅源
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8$订阅源
 女性时尚,http://173.208.212.130:8181/720p/nxss.m3u8$订阅源
@@ -284,17 +284,16 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 女性时尚,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244811/main.m3u8?stbid=$订阅源
 女性时尚,http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8$订阅源
 女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103$订阅源
-高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq$订阅源
 高尔夫网球,http://45.192.97.170:8880/play/4113.m3u8$订阅源
 高尔夫网球,http://45.192.97.170:8880/play/4114.m3u8$订阅源
 高尔夫网球,http://45.192.97.170:8880/play/4241.m3u8$订阅源
 高尔夫网球,http://45.192.97.170:8880/play/4242.m3u8$订阅源
-高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8$订阅源
+高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq$订阅源
 高尔夫网球,http://104.152.209.49:8181/720p/gefwq.m3u8$订阅源
+高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8$订阅源
 高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8$订阅源
 高尔夫网球,http://www.xiaomo520.cn:4020/udp/239.252.219.95:5140$订阅源
 高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8$订阅源
-风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$订阅源
 风云足球,http://45.192.97.170:8880/play/4115.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/4116.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/4243.m3u8$订阅源
@@ -302,10 +301,10 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 风云足球,http://45.192.97.170:8880/play/2137.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/3449.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/3598.m3u8$订阅源
-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8$订阅源
+风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$订阅源
 风云足球,http://104.152.209.49:8181/720p/fyzq.m3u8$订阅源
+风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8$订阅源
 电视指南,https://cc06.tv12.xyz/39.m3u8$订阅源
-世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl$订阅源
 世界地理,http://45.192.97.170:8880/play/955.m3u8$订阅源
 世界地理,http://45.192.97.170:8880/play/4099.m3u8$订阅源
 世界地理,http://45.192.97.170:8880/play/4100.m3u8$订阅源
@@ -314,17 +313,18 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 世界地理,http://45.192.97.170:8880/play/3457.m3u8$订阅源
 世界地理,http://45.192.97.170:8880/play/2139.m3u8$订阅源
 世界地理,http://45.192.97.170:8880/play/3602.m3u8$订阅源
-世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8$订阅源
+世界地理,http://192.151.150.154/live/sjdl.m3u8$订阅源
+世界地理,http://192.151.150.154/live/sjdl.m3u8$订阅源
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 兵器科技,http://45.192.97.170:8880/play/4107.m3u8$订阅源
 兵器科技,http://45.192.97.170:8880/play/4108.m3u8$订阅源
 兵器科技,http://45.192.97.170:8880/play/4235.m3u8$订阅源
 兵器科技,http://45.192.97.170:8880/play/4236.m3u8$订阅源
-兵器科技,http://173.208.212.130:8181/720p/gfjs.m3u8$订阅源
+兵器科技,http://192.151.150.154/live/gfjs.m3u8$订阅源
 兵器科技,http://104.152.209.49:8181/720p/gfjs.m3u8$订阅源
+兵器科技,http://173.208.212.130:8181/720p/gfjs.m3u8$订阅源
 兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8$订阅源
-兵器科技,http://www.xiaomo520.cn:4020/udp/239.252.219.98:5140$订阅源
 
 📡卫视频道,#genre#
 广东卫视,rtmp://39.108.129.193:1935/gdws/ia9s_gdws$订阅源
@@ -367,7 +367,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 湖南卫视,http://45.192.97.170:8880/play/364.m3u8$订阅源
 湖南卫视,http://45.192.97.170:8880/play/365.m3u8$订阅源
 湖南卫视,http://45.192.97.170:8880/play/444.m3u8$订阅源
-北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd$订阅源
 北京卫视,http://45.192.97.170:8880/play/521.m3u8$订阅源
 北京卫视,http://45.192.97.170:8880/play/2188.m3u8$订阅源
 北京卫视,http://45.192.97.170:8880/play/3780.m3u8$订阅源
@@ -377,6 +376,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北京卫视,http://45.192.97.170:8880/play/379.m3u8$订阅源
 北京卫视,http://45.192.97.170:8880/play/380.m3u8$订阅源
 北京卫视,http://45.192.97.170:8880/play/381.m3u8$订阅源
+北京卫视,http://45.192.97.170:8880/play/382.m3u8$订阅源
 湖北卫视,http://45.192.97.170:8880/play/34.m3u8$订阅源
 湖北卫视,http://45.192.97.170:8880/play/352.m3u8$订阅源
 湖北卫视,http://45.192.97.170:8880/play/353.m3u8$订阅源
@@ -387,7 +387,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 湖北卫视,http://45.192.97.170:8880/play/358.m3u8$订阅源
 湖北卫视,http://45.192.97.170:8880/play/452.m3u8$订阅源
 湖北卫视,http://45.192.97.170:8880/play/498.m3u8$订阅源
-黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd$订阅源
 黑龙江卫视,http://45.192.97.170:8880/play/371.m3u8$订阅源
 黑龙江卫视,http://45.192.97.170:8880/play/372.m3u8$订阅源
 黑龙江卫视,http://45.192.97.170:8880/play/373.m3u8$订阅源
@@ -397,7 +396,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 黑龙江卫视,http://45.192.97.170:8880/play/598.m3u8$订阅源
 黑龙江卫视,http://45.192.97.170:8880/play/628.m3u8$订阅源
 黑龙江卫视,http://45.192.97.170:8880/play/681.m3u8$订阅源
-安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd$订阅源
+黑龙江卫视,http://45.192.97.170:8880/play/775.m3u8$订阅源
 安徽卫视,http://45.192.97.170:8880/play/317.m3u8$订阅源
 安徽卫视,http://45.192.97.170:8880/play/318.m3u8$订阅源
 安徽卫视,http://45.192.97.170:8880/play/319.m3u8$订阅源
@@ -407,7 +406,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 安徽卫视,http://45.192.97.170:8880/play/582.m3u8$订阅源
 安徽卫视,http://45.192.97.170:8880/play/632.m3u8$订阅源
 安徽卫视,http://45.192.97.170:8880/play/666.m3u8$订阅源
-重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd$订阅源
+安徽卫视,http://45.192.97.170:8880/play/756.m3u8$订阅源
 重庆卫视,http://45.192.97.170:8880/play/417.m3u8$订阅源
 重庆卫视,http://45.192.97.170:8880/play/418.m3u8$订阅源
 重庆卫视,http://45.192.97.170:8880/play/455.m3u8$订阅源
@@ -417,8 +416,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 重庆卫视,http://45.192.97.170:8880/play/765.m3u8$订阅源
 重庆卫视,http://45.192.97.170:8880/play/854.m3u8$订阅源
 重庆卫视,http://45.192.97.170:8880/play/896.m3u8$订阅源
-东方卫视,http://207.56.13.146:81/cdnlive/dfws.m3u8$订阅源
-东方卫视,http://207.56.13.146:81/cdnlive/dfws.m3u8$订阅源
+重庆卫视,http://45.192.97.170:8880/play/1027.m3u8$订阅源
 东方卫视,http://45.192.97.170:8880/play/26.m3u8$订阅源
 东方卫视,http://45.192.97.170:8880/play/312.m3u8$订阅源
 东方卫视,http://45.192.97.170:8880/play/313.m3u8$订阅源
@@ -427,7 +425,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 东方卫视,http://45.192.97.170:8880/play/316.m3u8$订阅源
 东方卫视,http://45.192.97.170:8880/play/446.m3u8$订阅源
 东方卫视,http://45.192.97.170:8880/play/482.m3u8$订阅源
-东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd$订阅源
+东方卫视,http://45.192.97.170:8880/play/579.m3u8$订阅源
+东方卫视,http://45.192.97.170:8880/play/665.m3u8$订阅源
 东南卫视,http://45.192.97.170:8880/play/311.m3u8$订阅源
 东南卫视,http://45.192.97.170:8880/play/500.m3u8$订阅源
 东南卫视,http://45.192.97.170:8880/play/594.m3u8$订阅源
@@ -437,7 +436,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 东南卫视,http://45.192.97.170:8880/play/858.m3u8$订阅源
 东南卫视,http://45.192.97.170:8880/play/942.m3u8$订阅源
 东南卫视,http://45.192.97.170:8880/play/996.m3u8$订阅源
-甘肃卫视,http://207.56.13.146:81/cdnlive/gsws.m3u8$订阅源
+东南卫视,http://45.192.97.170:8880/play/997.m3u8$订阅源
 甘肃卫视,http://45.192.97.170:8880/play/409.m3u8$订阅源
 甘肃卫视,http://45.192.97.170:8880/play/599.m3u8$订阅源
 甘肃卫视,http://45.192.97.170:8880/play/812.m3u8$订阅源
@@ -447,8 +446,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 甘肃卫视,http://45.192.97.170:8880/play/2370.m3u8$订阅源
 甘肃卫视,http://45.192.97.170:8880/play/2525.m3u8$订阅源
 甘肃卫视,http://45.192.97.170:8880/play/2638.m3u8$订阅源
+甘肃卫视,http://45.192.97.170:8880/play/2694.m3u8$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
-广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd$订阅源
 广西卫视,http://45.192.97.170:8880/play/399.m3u8$订阅源
 广西卫视,http://45.192.97.170:8880/play/400.m3u8$订阅源
 广西卫视,http://45.192.97.170:8880/play/437.m3u8$订阅源
@@ -457,17 +456,17 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广西卫视,http://45.192.97.170:8880/play/636.m3u8$订阅源
 广西卫视,http://45.192.97.170:8880/play/678.m3u8$订阅源
 广西卫视,http://45.192.97.170:8880/play/817.m3u8$订阅源
-贵州卫视,http://198.204.228.26/live/gzwshd.m3u8$订阅源
-贵州卫视,http://198.204.228.26/live/gzwshd.m3u8$订阅源
-贵州卫视,http://207.56.13.146:81/cdnlive/gzws.m3u8$订阅源
-贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd$订阅源
+广西卫视,http://45.192.97.170:8880/play/857.m3u8$订阅源
 贵州卫视,http://45.192.97.170:8880/play/366.m3u8$订阅源
 贵州卫视,http://45.192.97.170:8880/play/367.m3u8$订阅源
 贵州卫视,http://45.192.97.170:8880/play/368.m3u8$订阅源
 贵州卫视,http://45.192.97.170:8880/play/369.m3u8$订阅源
 贵州卫视,http://45.192.97.170:8880/play/370.m3u8$订阅源
 贵州卫视,http://45.192.97.170:8880/play/454.m3u8$订阅源
-海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8$订阅源
+贵州卫视,http://45.192.97.170:8880/play/595.m3u8$订阅源
+贵州卫视,http://45.192.97.170:8880/play/630.m3u8$订阅源
+贵州卫视,http://45.192.97.170:8880/play/682.m3u8$订阅源
+贵州卫视,http://45.192.97.170:8880/play/819.m3u8$订阅源
 海南卫视,http://45.192.97.170:8880/play/419.m3u8$订阅源
 海南卫视,http://45.192.97.170:8880/play/591.m3u8$订阅源
 海南卫视,http://45.192.97.170:8880/play/683.m3u8$订阅源
@@ -477,7 +476,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南卫视,http://45.192.97.170:8880/play/939.m3u8$订阅源
 海南卫视,http://45.192.97.170:8880/play/1016.m3u8$订阅源
 海南卫视,http://45.192.97.170:8880/play/1093.m3u8$订阅源
-河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd$订阅源
+海南卫视,http://45.192.97.170:8880/play/2158.m3u8$订阅源
 河北卫视,http://45.192.97.170:8880/play/31.m3u8$订阅源
 河北卫视,http://45.192.97.170:8880/play/336.m3u8$订阅源
 河北卫视,http://45.192.97.170:8880/play/337.m3u8$订阅源
@@ -487,9 +486,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 河北卫视,http://45.192.97.170:8880/play/633.m3u8$订阅源
 河北卫视,http://45.192.97.170:8880/play/668.m3u8$订阅源
 河北卫视,http://45.192.97.170:8880/play/767.m3u8$订阅源
-河南卫视,http://198.204.228.26/live/hawshd.m3u8$订阅源
-河南卫视,http://207.56.13.146:81/cdnlive/haws.m3u8$订阅源
-河南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd$订阅源
+河北卫视,http://45.192.97.170:8880/play/850.m3u8$订阅源
 河南卫视,http://45.192.97.170:8880/play/406.m3u8$订阅源
 河南卫视,http://45.192.97.170:8880/play/407.m3u8$订阅源
 河南卫视,http://45.192.97.170:8880/play/408.m3u8$订阅源
@@ -497,8 +494,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 河南卫视,http://45.192.97.170:8880/play/589.m3u8$订阅源
 河南卫视,http://45.192.97.170:8880/play/635.m3u8$订阅源
 河南卫视,http://45.192.97.170:8880/play/670.m3u8$订阅源
-吉林卫视,http://198.204.228.26/live/jlwshd.m3u8$订阅源
-吉林卫视,http://207.56.13.146:81/cdnlive/jlws.m3u8$订阅源
+河南卫视,http://45.192.97.170:8880/play/685.m3u8$订阅源
+河南卫视,http://45.192.97.170:8880/play/766.m3u8$订阅源
+河南卫视,http://45.192.97.170:8880/play/803.m3u8$订阅源
 吉林卫视,http://45.192.97.170:8880/play/384.m3u8$订阅源
 吉林卫视,http://45.192.97.170:8880/play/385.m3u8$订阅源
 吉林卫视,http://45.192.97.170:8880/play/386.m3u8$订阅源
@@ -507,8 +505,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 吉林卫视,http://45.192.97.170:8880/play/489.m3u8$订阅源
 吉林卫视,http://45.192.97.170:8880/play/600.m3u8$订阅源
 吉林卫视,http://45.192.97.170:8880/play/638.m3u8$订阅源
-江苏卫视,http://198.204.228.26/live/jswshd.m3u8$订阅源
-江苏卫视,http://207.56.13.146:81/cdnlive/jsws.m3u8$订阅源
+吉林卫视,http://45.192.97.170:8880/play/680.m3u8$订阅源
+吉林卫视,http://45.192.97.170:8880/play/802.m3u8$订阅源
 江苏卫视,http://45.192.97.170:8880/play/27.m3u8$订阅源
 江苏卫视,http://45.192.97.170:8880/play/330.m3u8$订阅源
 江苏卫视,http://45.192.97.170:8880/play/331.m3u8$订阅源
@@ -517,8 +515,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江苏卫视,http://45.192.97.170:8880/play/334.m3u8$订阅源
 江苏卫视,http://45.192.97.170:8880/play/335.m3u8$订阅源
 江苏卫视,http://45.192.97.170:8880/play/450.m3u8$订阅源
-江西卫视,http://198.204.228.26/live/jxwshd.m3u8$订阅源
-江西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd$订阅源
+江苏卫视,http://45.192.97.170:8880/play/484.m3u8$订阅源
+江苏卫视,http://45.192.97.170:8880/play/586.m3u8$订阅源
 江西卫视,http://45.192.97.170:8880/play/32.m3u8$订阅源
 江西卫视,http://45.192.97.170:8880/play/402.m3u8$订阅源
 江西卫视,http://45.192.97.170:8880/play/403.m3u8$订阅源
@@ -527,9 +525,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江西卫视,http://45.192.97.170:8880/play/587.m3u8$订阅源
 江西卫视,http://45.192.97.170:8880/play/626.m3u8$订阅源
 江西卫视,http://45.192.97.170:8880/play/671.m3u8$订阅源
-辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8$订阅源
-辽宁卫视,http://207.56.13.146:81/cdnlive/lnws.m3u8$订阅源
-辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd$订阅源
+江西卫视,http://45.192.97.170:8880/play/772.m3u8$订阅源
+江西卫视,http://45.192.97.170:8880/play/852.m3u8$订阅源
 辽宁卫视,http://45.192.97.170:8880/play/30.m3u8$订阅源
 辽宁卫视,http://45.192.97.170:8880/play/411.m3u8$订阅源
 辽宁卫视,http://45.192.97.170:8880/play/412.m3u8$订阅源
@@ -537,8 +534,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 辽宁卫视,http://45.192.97.170:8880/play/414.m3u8$订阅源
 辽宁卫视,http://45.192.97.170:8880/play/415.m3u8$订阅源
 辽宁卫视,http://45.192.97.170:8880/play/416.m3u8$订阅源
-内蒙古卫视,http://207.56.13.146:81/cdnlive/nmgws.m3u8$订阅源
-内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws$订阅源
+辽宁卫视,http://45.192.97.170:8880/play/459.m3u8$订阅源
+辽宁卫视,http://45.192.97.170:8880/play/487.m3u8$订阅源
+辽宁卫视,http://45.192.97.170:8880/play/596.m3u8$订阅源
 内蒙古卫视,http://45.192.97.170:8880/play/378.m3u8$订阅源
 内蒙古卫视,http://45.192.97.170:8880/play/642.m3u8$订阅源
 内蒙古卫视,http://45.192.97.170:8880/play/776.m3u8$订阅源
@@ -547,7 +545,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 内蒙古卫视,http://45.192.97.170:8880/play/2172.m3u8$订阅源
 内蒙古卫视,http://45.192.97.170:8880/play/2377.m3u8$订阅源
 内蒙古卫视,http://45.192.97.170:8880/play/2539.m3u8$订阅源
-宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws$订阅源
+内蒙古卫视,http://45.192.97.170:8880/play/2736.m3u8$订阅源
+内蒙古卫视,http://45.192.97.170:8880/play/2977.m3u8$订阅源
 宁夏卫视,http://45.192.97.170:8880/play/395.m3u8$订阅源
 宁夏卫视,http://45.192.97.170:8880/play/396.m3u8$订阅源
 宁夏卫视,http://45.192.97.170:8880/play/397.m3u8$订阅源
@@ -557,7 +556,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 宁夏卫视,http://45.192.97.170:8880/play/2376.m3u8$订阅源
 宁夏卫视,http://45.192.97.170:8880/play/2536.m3u8$订阅源
 宁夏卫视,http://45.192.97.170:8880/play/2635.m3u8$订阅源
-青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws$订阅源
+宁夏卫视,http://45.192.97.170:8880/play/2733.m3u8$订阅源
 青海卫视,http://45.192.97.170:8880/play/860.m3u8$订阅源
 青海卫视,http://45.192.97.170:8880/play/1031.m3u8$订阅源
 青海卫视,http://45.192.97.170:8880/play/1071.m3u8$订阅源
@@ -567,9 +566,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 青海卫视,http://45.192.97.170:8880/play/2633.m3u8$订阅源
 青海卫视,http://45.192.97.170:8880/play/2730.m3u8$订阅源
 青海卫视,http://45.192.97.170:8880/play/3315.m3u8$订阅源
-山东卫视,http://198.204.228.26/live/sdwshd.m3u8$订阅源
-山东卫视,http://207.56.13.146:81/cdnlive/sdws.m3u8$订阅源
-山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd$订阅源
+青海卫视,http://45.192.97.170:8880/play/3406.m3u8$订阅源
 山东卫视,http://45.192.97.170:8880/play/321.m3u8$订阅源
 山东卫视,http://45.192.97.170:8880/play/322.m3u8$订阅源
 山东卫视,http://45.192.97.170:8880/play/323.m3u8$订阅源
@@ -577,8 +574,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 山东卫视,http://45.192.97.170:8880/play/497.m3u8$订阅源
 山东卫视,http://45.192.97.170:8880/play/583.m3u8$订阅源
 山东卫视,http://45.192.97.170:8880/play/624.m3u8$订阅源
-山西卫视,http://198.204.228.26/live/sxwshd.m3u8$订阅源
-山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd$订阅源
+山东卫视,http://45.192.97.170:8880/play/669.m3u8$订阅源
+山东卫视,http://45.192.97.170:8880/play/763.m3u8$订阅源
+山东卫视,http://45.192.97.170:8880/play/814.m3u8$订阅源
 山西卫视,http://45.192.97.170:8880/play/398.m3u8$订阅源
 山西卫视,http://45.192.97.170:8880/play/448.m3u8$订阅源
 山西卫视,http://45.192.97.170:8880/play/491.m3u8$订阅源
@@ -587,8 +585,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 山西卫视,http://45.192.97.170:8880/play/934.m3u8$订阅源
 山西卫视,http://45.192.97.170:8880/play/1060.m3u8$订阅源
 山西卫视,http://45.192.97.170:8880/play/2372.m3u8$订阅源
-陕西卫视,http://198.204.228.26/live/snwshd.m3u8$订阅源
-陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd$订阅源
+山西卫视,http://45.192.97.170:8880/play/2631.m3u8$订阅源
+山西卫视,http://45.192.97.170:8880/play/2734.m3u8$订阅源
 陕西卫视,http://45.192.97.170:8880/play/33.m3u8$订阅源
 陕西卫视,http://45.192.97.170:8880/play/499.m3u8$订阅源
 陕西卫视,http://45.192.97.170:8880/play/639.m3u8$订阅源
@@ -597,9 +595,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 陕西卫视,http://45.192.97.170:8880/play/1030.m3u8$订阅源
 陕西卫视,http://45.192.97.170:8880/play/1073.m3u8$订阅源
 陕西卫视,http://45.192.97.170:8880/play/2174.m3u8$订阅源
-四川卫视,http://198.204.228.26/live/scwshd.m3u8$订阅源
-四川卫视,http://207.56.13.146:81/cdnlive/scws.m3u8$订阅源
-四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd$订阅源
+陕西卫视,http://45.192.97.170:8880/play/2374.m3u8$订阅源
+陕西卫视,http://45.192.97.170:8880/play/2630.m3u8$订阅源
 四川卫视,http://45.192.97.170:8880/play/388.m3u8$订阅源
 四川卫视,http://45.192.97.170:8880/play/389.m3u8$订阅源
 四川卫视,http://45.192.97.170:8880/play/390.m3u8$订阅源
@@ -607,6 +604,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 四川卫视,http://45.192.97.170:8880/play/494.m3u8$订阅源
 四川卫视,http://45.192.97.170:8880/play/580.m3u8$订阅源
 四川卫视,http://45.192.97.170:8880/play/616.m3u8$订阅源
+四川卫视,http://45.192.97.170:8880/play/673.m3u8$订阅源
+四川卫视,http://45.192.97.170:8880/play/764.m3u8$订阅源
+四川卫视,http://45.192.97.170:8880/play/820.m3u8$订阅源
 深圳卫视,http://45.192.97.170:8880/play/345.m3u8$订阅源
 深圳卫视,http://45.192.97.170:8880/play/346.m3u8$订阅源
 深圳卫视,http://45.192.97.170:8880/play/347.m3u8$订阅源
@@ -617,19 +617,16 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 深圳卫视,http://45.192.97.170:8880/play/458.m3u8$订阅源
 深圳卫视,http://45.192.97.170:8880/play/495.m3u8$订阅源
 深圳卫视,http://45.192.97.170:8880/play/537.m3u8$订阅源
-三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws$订阅源
 三沙卫视,http://45.192.97.170:8880/play/684.m3u8$订阅源
 三沙卫视,http://45.192.97.170:8880/play/995.m3u8$订阅源
 三沙卫视,http://45.192.97.170:8880/play/2168.m3u8$订阅源
 三沙卫视,http://45.192.97.170:8880/play/2761.m3u8$订阅源
 三沙卫视,http://45.192.97.170:8880/play/3437.m3u8$订阅源
 三沙卫视,http://45.192.97.170:8880/play/5608.m3u8$订阅源
+三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws$订阅源
 三沙卫视,http://204.12.221.218:8181/3m1080p/ssws.m3u8$订阅源
 三沙卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887452.m3u8$订阅源
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8$订阅源
-天津卫视,http://198.204.228.26/live/tjwshd.m3u8$订阅源
-天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8$订阅源
-天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd$订阅源
 天津卫视,http://45.192.97.170:8880/play/391.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/392.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/393.m3u8$订阅源
@@ -637,9 +634,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 天津卫视,http://45.192.97.170:8880/play/457.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/581.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/623.m3u8$订阅源
-西藏卫视,http://198.204.228.26/live/xzws.m3u8$订阅源
-西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8$订阅源
-西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws$订阅源
+天津卫视,http://45.192.97.170:8880/play/667.m3u8$订阅源
+天津卫视,http://45.192.97.170:8880/play/770.m3u8$订阅源
+天津卫视,http://45.192.97.170:8880/play/846.m3u8$订阅源
 西藏卫视,http://45.192.97.170:8880/play/410.m3u8$订阅源
 西藏卫视,http://45.192.97.170:8880/play/461.m3u8$订阅源
 西藏卫视,http://45.192.97.170:8880/play/641.m3u8$订阅源
@@ -647,7 +644,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 西藏卫视,http://45.192.97.170:8880/play/1024.m3u8$订阅源
 西藏卫视,http://45.192.97.170:8880/play/1079.m3u8$订阅源
 西藏卫视,http://45.192.97.170:8880/play/2379.m3u8$订阅源
-新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws$订阅源
+西藏卫视,http://45.192.97.170:8880/play/2537.m3u8$订阅源
+西藏卫视,http://45.192.97.170:8880/play/2636.m3u8$订阅源
+西藏卫视,http://45.192.97.170:8880/play/2728.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/1077.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/2170.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/2378.m3u8$订阅源
@@ -657,8 +656,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 新疆卫视,http://45.192.97.170:8880/play/3325.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/3412.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/3556.m3u8$订阅源
-云南卫视,http://198.204.228.26/live/ynwshd.m3u8$订阅源
-云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8$订阅源
+新疆卫视,http://45.192.97.170:8880/play/3889.m3u8$订阅源
 云南卫视,http://45.192.97.170:8880/play/376.m3u8$订阅源
 云南卫视,http://45.192.97.170:8880/play/377.m3u8$订阅源
 云南卫视,http://45.192.97.170:8880/play/492.m3u8$订阅源
@@ -667,33 +665,35 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 云南卫视,http://45.192.97.170:8880/play/768.m3u8$订阅源
 云南卫视,http://45.192.97.170:8880/play/818.m3u8$订阅源
 云南卫视,http://45.192.97.170:8880/play/1000.m3u8$订阅源
+云南卫视,http://45.192.97.170:8880/play/1072.m3u8$订阅源
+云南卫视,http://45.192.97.170:8880/play/2171.m3u8$订阅源
 
 ☘️广东频道,#genre#
 广东珠江,rtmp://116.63.53.136/live/gdzj$[BD]广东珠江
 广东珠江,rtmp://118.145.86.104/live/gdzj$订阅源
-广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj$订阅源
-广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzja$订阅源
 广东珠江,http://45.192.97.170:8880/play/881.m3u8$订阅源
 广东珠江,http://45.192.97.170:8880/play/525.m3u8$订阅源
 广东珠江,http://45.192.97.170:8880/play/1219.m3u8$订阅源
 广东珠江,http://45.192.97.170:8880/play/943.m3u8$订阅源
 广东珠江,http://45.192.97.170:8880/play/2516.m3u8$订阅源
 广东珠江,http://45.192.97.170:8880/play/572.m3u8$订阅源
-广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty$订阅源
+广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj$订阅源
+广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzja$订阅源
 广东体育,http://45.192.97.170:8880/play/528.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/575.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/882.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/1220.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/2558.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/2586.m3u8$订阅源
+广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty$订阅源
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
-广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw$订阅源
 广东新闻,http://45.192.97.170:8880/play/574.m3u8$订阅源
 广东新闻,http://45.192.97.170:8880/play/944.m3u8$订阅源
 广东新闻,http://45.192.97.170:8880/play/526.m3u8$订阅源
 广东新闻,http://45.192.97.170:8880/play/2584.m3u8$订阅源
+广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw$订阅源
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-25.ctv$订阅源
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-24.m3u8$订阅源
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-18.ctv$订阅源
@@ -719,16 +719,16 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-14.m3u8$订阅源
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv$订阅源
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv$订阅源
-大湾区卫视,http://198.204.228.26/live/nfws.m3u8$订阅源
-大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws$订阅源
 大湾区卫视,http://45.192.97.170:8880/play/23.m3u8$订阅源
 大湾区卫视,http://45.192.97.170:8880/play/2348.m3u8$订阅源
 大湾区卫视,http://107.150.60.122/live/nfws.m3u8$订阅源
+大湾区卫视,http://198.204.228.26/live/nfws.m3u8$订阅源
+大湾区卫视,http://192.151.150.154/live/nfws.m3u8$订阅源
+大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws$订阅源
 大湾区卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108$订阅源
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws$订阅源
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws$订阅源
 大湾区卫视,http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=$订阅源
-大湾区卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226540/1.m3u8$订阅源
 广州综合,http://45.192.97.170:8880/play/535.m3u8$订阅源
 广州综合,http://45.192.97.170:8880/play/946.m3u8$订阅源
 广州综合,http://45.192.97.170:8880/play/5616.m3u8$订阅源
@@ -1067,8 +1067,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=$订阅源
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8$订阅源
 松阳新闻综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=$订阅源
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8$订阅源
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8$订阅源
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8$订阅源
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8$订阅源
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8$订阅源
@@ -1164,7 +1162,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8$订阅源
 
 ☘️北京频道,#genre#
-北京卡酷少儿,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btvkk$订阅源
 北京卡酷少儿,http://45.192.97.170:8880/play/4017.m3u8$订阅源
 北京卡酷少儿,http://45.192.97.170:8880/play/3911.m3u8$订阅源
 北京卡酷少儿,http://45.192.97.170:8880/play/2640.m3u8$订阅源
@@ -1174,6 +1171,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北京卡酷少儿,http://45.192.97.170:8880/play/3428.m3u8$订阅源
 北京卡酷少儿,http://45.192.97.170:8880/play/3571.m3u8$订阅源
 北京卡酷少儿,http://45.192.97.170:8880/play/3009.m3u8$订阅源
+北京卡酷少儿,http://45.192.97.170:8880/play/2422.m3u8$订阅源
 北京新闻,http://45.192.97.170:8880/play/6336.m3u8$订阅源
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8$订阅源
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND$订阅源
@@ -1281,13 +1279,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 动漫秀场,http://45.192.97.170:8880/play/3445.m3u8$订阅源
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8$订阅源
-哈哈炫动,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd$订阅源
 哈哈炫动,http://45.192.97.170:8880/play/3910.m3u8$订阅源
 哈哈炫动,http://45.192.97.170:8880/play/2930.m3u8$订阅源
 哈哈炫动,http://45.192.97.170:8880/play/2642.m3u8$订阅源
 哈哈炫动,http://45.192.97.170:8880/play/2421.m3u8$订阅源
 哈哈炫动,http://45.192.97.170:8880/play/3581.m3u8$订阅源
 哈哈炫动,http://45.192.97.170:8880/play/3425.m3u8$订阅源
+哈哈炫动,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd$订阅源
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8$订阅源
 哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8$订阅源
@@ -1532,8 +1530,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 溧水新闻综合,https://migu.188766.xyz/?migutoken=bfd7d682861a38b691407e06b7f32f3c&id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy$订阅源
 溧水新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=20251025080102f85a6abac0d64c679ab538b375a256e3&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20251025080102&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=106.13.250.90&SecurityKey=20251025080102&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c4c759517172dc16ebdc0de9d4416c8c&ddCalcu=cc84ecc26791504945d197e1d702cddcb1e6$订阅源
 睢宁综合,rtmp://221.229.243.45:1935/live/live1$订阅源
-苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8$订阅源
-苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8$订阅源
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8$订阅源
 苏州文化生活,https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-3.m3u8$订阅源
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8$订阅源
@@ -1574,6 +1570,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he.m3u8$订阅源
 
 ☘️辽宁频道,#genre#
+朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8$订阅源
+朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8$订阅源
 辽宁北方,http://45.192.97.170:8880/play/1089.m3u8$订阅源
 辽宁北方,http://45.192.97.170:8880/play/3225.m3u8$订阅源
 辽宁北方,http://45.192.97.170:8880/play/3372.m3u8$订阅源
@@ -1895,8 +1893,10 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 灌阳新闻综合,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8$订阅源
 田东综合,http://pulls.myun.tv/live/0dkp33j5.m3u8$订阅源
 贺州综合,http://45.192.97.170:8880/play/2382.m3u8$订阅源
+广西新闻,http://192.151.150.154/live/gxxw.m3u8$订阅源
 广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8$订阅源
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html$订阅源
+广西国际,http://192.151.150.154/live/gxgj.m3u8$订阅源
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8$订阅源
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=$订阅源
 广西国际,https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html$订阅源
@@ -1909,9 +1909,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 天津都市,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv4$订阅源
 天津新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv1$订阅源
 天津文艺,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv2$订阅源
-天津卫视,http://198.204.228.26/live/tjwshd.m3u8$订阅源
-天津卫视,http://207.56.13.146:81/cdnlive/tjws.m3u8$订阅源
-天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd$订阅源
 天津卫视,http://45.192.97.170:8880/play/391.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/392.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/393.m3u8$订阅源
@@ -1919,6 +1916,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 天津卫视,http://45.192.97.170:8880/play/457.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/581.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/623.m3u8$订阅源
+天津卫视,http://45.192.97.170:8880/play/667.m3u8$订阅源
+天津卫视,http://45.192.97.170:8880/play/770.m3u8$订阅源
+天津卫视,http://45.192.97.170:8880/play/846.m3u8$订阅源
 
 ☘️四川频道,#genre#
 东兴综合,http://45.192.97.170:8880/play/3070.m3u8$订阅源
@@ -1983,8 +1983,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd$订阅源
 平武综合,http://45.192.97.170:8880/play/3137.m3u8$订阅源
 平武综合,http://iptv.666230.xyz/iptv/sxg.php/pwgq_4000$订阅源
-广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8$订阅源
-广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8$订阅源
 广元综合,http://45.192.97.170:8880/play/3086.m3u8$订阅源
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-1.m3u8$订阅源
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.ctv$订阅源
@@ -2530,7 +2528,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 酒泉综合,https://3ee63cd9178a070a2db29f77915c49d4.livehwc3.cn/play.kankanlive.com/live/1702033926169975.m3u8$订阅源
 
 ☘️新疆频道,#genre#
-新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws$订阅源
 新疆卫视,http://45.192.97.170:8880/play/1077.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/2170.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/2378.m3u8$订阅源
@@ -2540,6 +2537,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 新疆卫视,http://45.192.97.170:8880/play/3325.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/3412.m3u8$订阅源
 新疆卫视,http://45.192.97.170:8880/play/3556.m3u8$订阅源
+新疆卫视,http://45.192.97.170:8880/play/3889.m3u8$订阅源
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1$订阅源
 石河子教育,rtmp://124.88.144.73:1935/live/jiaoyu$订阅源
 
@@ -2771,6 +2769,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1746307365&key=85abbfb19768c29f883db499d3c1114f$订阅源
 吉林都市,https://t.freetv.fun/live/ji-lin-du-shi-1.php$订阅源
 吉林都市,https://t.freetv.fun/live/ji-lin-du-shi-3.m3u8$订阅源
+吉林生活,http://192.151.150.154/live/jlsh.m3u8$订阅源
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1745796321&key=8386cb03e732cd707a483bb89f1216af$订阅源
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1746307365&key=3501231d172e510eec2f039a508df51d$订阅源
 吉林生活,https://t.freetv.fun/live/ji-lin-sheng-huo-1.php$订阅源
@@ -3053,8 +3052,6 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065$订阅源
 
 🎬电影频道,#genre#
-CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8$订阅源
-CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt$订阅源
 CHC家庭影院,http://45.192.97.170:8880/play/60.m3u8$订阅源
 CHC家庭影院,http://45.192.97.170:8880/play/1035.m3u8$订阅源
 CHC家庭影院,http://45.192.97.170:8880/play/2258.m3u8$订阅源
@@ -3063,9 +3060,10 @@ CHC家庭影院,http://45.192.97.170:8880/play/3440.m3u8$订阅源
 CHC家庭影院,http://45.192.97.170:8880/play/3560.m3u8$订阅源
 CHC家庭影院,http://45.192.97.170:8880/play/3811.m3u8$订阅源
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8$订阅源
+CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8$订阅源
+CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8$订阅源
 CHC动作电影,https://live.264788.xyz/channel/newtvdongzuodianying?streamid=dc4df8b22f3ce9e79832bdd91cd7ea76&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CHC动作电影,https://live.264788.xyz/channel/newtvdongzuodianying?streamid=05ad887268adec6763cb8eafd1c0b6ec&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-CHC动作电影,http://198.204.228.26/live/chcdz.m3u8$订阅源
 CHC动作电影,http://45.192.97.170:8880/play/59.m3u8$订阅源
 CHC动作电影,http://45.192.97.170:8880/play/1034.m3u8$订阅源
 CHC动作电影,http://45.192.97.170:8880/play/1098.m3u8$订阅源
@@ -3073,6 +3071,7 @@ CHC动作电影,http://45.192.97.170:8880/play/2247.m3u8$订阅源
 CHC动作电影,http://45.192.97.170:8880/play/2259.m3u8$订阅源
 CHC动作电影,http://45.192.97.170:8880/play/2439.m3u8$订阅源
 CHC动作电影,http://45.192.97.170:8880/play/2556.m3u8$订阅源
+CHC动作电影,http://45.192.97.170:8880/play/2994.m3u8$订阅源
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND$订阅源
 淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8$订阅源
 淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8$订阅源
@@ -3248,13 +3247,13 @@ CCTV-5+,http://45.192.97.170:8880/play/242.m3u8$订阅源
 CCTV-5+,http://45.192.97.170:8880/play/426.m3u8$订阅源
 CCTV-5+,http://45.192.97.170:8880/play/468.m3u8$订阅源
 CCTV-5+,http://45.192.97.170:8880/play/506.m3u8$订阅源
-广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty$订阅源
 广东体育,http://45.192.97.170:8880/play/528.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/575.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/882.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/1220.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/2558.m3u8$订阅源
 广东体育,http://45.192.97.170:8880/play/2586.m3u8$订阅源
+广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty$订阅源
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$订阅源
@@ -3268,9 +3267,9 @@ CCTV-5+,http://45.192.97.170:8880/play/506.m3u8$订阅源
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8$订阅源
 纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8$订阅源
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8$订阅源
-五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd$订阅源
 五星体育,http://45.192.97.170:8880/play/480.m3u8$订阅源
 五星体育,http://45.192.97.170:8880/play/1263.m3u8$订阅源
+五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd$订阅源
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8$订阅源
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-7.m3u8$订阅源
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-14.m3u8$订阅源
@@ -3369,7 +3368,6 @@ CCTV-5+,http://45.192.97.170:8880/play/506.m3u8$订阅源
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8$订阅源
 睛彩广场舞,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$订阅源
 睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8$订阅源
-风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$订阅源
 风云足球,http://45.192.97.170:8880/play/4115.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/4116.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/4243.m3u8$订阅源
@@ -3377,8 +3375,9 @@ CCTV-5+,http://45.192.97.170:8880/play/506.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/2137.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/3449.m3u8$订阅源
 风云足球,http://45.192.97.170:8880/play/3598.m3u8$订阅源
-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8$订阅源
+风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$订阅源
 风云足球,http://104.152.209.49:8181/720p/fyzq.m3u8$订阅源
+风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8$订阅源
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8$订阅源
 魅力足球,http://45.192.97.170:8880/play/2906.m3u8$订阅源
 魅力足球,http://45.192.97.170:8880/play/3013.m3u8$订阅源
@@ -3390,9 +3389,9 @@ CCTV-5+,http://45.192.97.170:8880/play/506.m3u8$订阅源
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8$订阅源
 魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d$订阅源
 魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=f4f71100ed3cd756f336e1f3b6d522c1338ee1ffd14316eea89e461d4e31e29395a265a9f1ec26b947fb0e7dc16296db47ae3bfea73caaee6901d17bfede63775878c0ab44c872939ba5b53baf$订阅源
-天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq$订阅源
 天元围棋,http://45.192.97.170:8880/play/2919.m3u8$订阅源
 天元围棋,http://45.192.97.170:8880/play/3018.m3u8$订阅源
+天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq$订阅源
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8$订阅源
 天元围棋,https://cc06.tv12.xyz/47.m3u8$订阅源
 天元围棋,http://iptv.666230.xyz/iptv/jsyd.php/G_TIANYUANWQ$订阅源
@@ -3412,7 +3411,6 @@ CCTV-5+,http://45.192.97.170:8880/play/506.m3u8$订阅源
 JJ斗地主,https://live.iill.top/douyin/685317364746$订阅源
 
 🪁动画频道,#genre#
-卡酷动画,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btvkk$订阅源
 卡酷动画,http://45.192.97.170:8880/play/4017.m3u8$订阅源
 卡酷动画,http://45.192.97.170:8880/play/3911.m3u8$订阅源
 卡酷动画,http://45.192.97.170:8880/play/2640.m3u8$订阅源
@@ -3422,6 +3420,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746$订阅源
 卡酷动画,http://45.192.97.170:8880/play/3428.m3u8$订阅源
 卡酷动画,http://45.192.97.170:8880/play/3571.m3u8$订阅源
 卡酷动画,http://45.192.97.170:8880/play/3009.m3u8$订阅源
+卡酷动画,http://45.192.97.170:8880/play/2422.m3u8$订阅源
 动漫秀场,http://45.192.97.170:8880/play/4205.m3u8$订阅源
 动漫秀场,http://45.192.97.170:8880/play/4204.m3u8$订阅源
 动漫秀场,http://45.192.97.170:8880/play/3565.m3u8$订阅源
@@ -3486,13 +3485,13 @@ CN卡通,https://t.freetv.fun/live/cnqia-tong-1.php$订阅源
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源
 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8$订阅源
 黑莓动画,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010002/1.m3u8$订阅源
-炫动卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd$订阅源
 炫动卡通,http://45.192.97.170:8880/play/3910.m3u8$订阅源
 炫动卡通,http://45.192.97.170:8880/play/2930.m3u8$订阅源
 炫动卡通,http://45.192.97.170:8880/play/2642.m3u8$订阅源
 炫动卡通,http://45.192.97.170:8880/play/2421.m3u8$订阅源
 炫动卡通,http://45.192.97.170:8880/play/3581.m3u8$订阅源
 炫动卡通,http://45.192.97.170:8880/play/3425.m3u8$订阅源
+炫动卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd$订阅源
 炫动卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源
 炫动卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8$订阅源
 炫动卡通,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-10.m3u8$订阅源
@@ -3581,8 +3580,8 @@ CCTV-15,http://45.192.97.170:8880/play/658.m3u8$订阅源
 风云音乐,http://45.192.97.170:8880/play/4120.m3u8$订阅源
 风云音乐,http://45.192.97.170:8880/play/4247.m3u8$订阅源
 风云音乐,http://45.192.97.170:8880/play/4248.m3u8$订阅源
-风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8$订阅源
 风云音乐,http://104.152.209.49:8181/720p/fyyy.m3u8$订阅源
+风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8$订阅源
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8$订阅源
 风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140$订阅源
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
@@ -3590,8 +3589,6 @@ CCTV-15,http://45.192.97.170:8880/play/658.m3u8$订阅源
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
 音乐之声,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
 音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8$订阅源
-潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8$订阅源
-潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8$订阅源
 音乐广播,https://tv-1.iill.top/fm/552$订阅源
 
 🏛经典剧场,#genre#
@@ -3605,10 +3602,10 @@ CCTV-15,http://45.192.97.170:8880/play/658.m3u8$订阅源
 笑傲江湖,http://live.metshop.top/huya/26355790$订阅源
 笑傲江湖,https://live.iill.top/huya.php?id=23865142$订阅源
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
-天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4$订阅源
-天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4$订阅源
 天龙八部,http://45.192.97.170:8880/play/1378.m3u8$订阅源
 天龙八部,http://45.192.97.170:8880/play/1863.m3u8$订阅源
+天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4$订阅源
+天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4$订阅源
 天龙八部,http://luobo.bkpcp.top/yy/1382736855$订阅源
 天龙八部,http://www.clmy.cc:35455/yy/1355067965$订阅源
 天龙八部,https://live.metshop.top/huya/23903123$订阅源
@@ -3748,6 +3745,7 @@ NBTV-4,url
 睢宁三农,url
 睢宁生活教育,url
 睢宁资讯,url
+苏州4k,url
 贾汪新闻,url
 贾汪旅游,url
 赣榆新闻综合,url
@@ -3757,7 +3755,6 @@ NBTV-4,url
 高邮一套新闻综合,url
 高邮综合,url
 朝阳教育,url
-朝阳新闻综合,url
 湖南视剧,url
 衡阳新闻综合,url
 茶陵新闻综合,url
@@ -3830,6 +3827,7 @@ NBTV-4,url
 威远新闻综合,url
 岳池新闻综合,url
 平昌新闻综合,url
+广元公共,url
 德阳公共,url
 成都高新电视,url
 梓潼新闻综合,url
@@ -4124,4 +4122,5 @@ IPTV经典电影,url
 斗破苍穹玄幻剧,url
 游戏竞技,url
 海看电竞,url
+潮流音乐,url
 音乐调频广播,url
