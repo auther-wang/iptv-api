@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/auther-wang/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-05 08:50:01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-06 03:20:26
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -7544,6 +7544,8 @@ url
 #EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙少儿.png" group-title="🈳无结果频道",内蒙少儿
 url
 #EXTINF:-1 tvg-name="内蒙文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙文体.png" group-title="🈳无结果频道",内蒙文体
+url
+#EXTINF:-1 tvg-name="蒙语文化" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蒙语文化.png" group-title="🈳无结果频道",蒙语文化
 url
 #EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古综合.png" group-title="🈳无结果频道",内蒙古综合
 url

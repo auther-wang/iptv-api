@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-05 08:50:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-10-06 03:20:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -3854,6 +3854,7 @@ NBTV-4,url
 内蒙新闻,url
 内蒙少儿,url
 内蒙文体,url
+蒙语文化,url
 内蒙古综合,url
 内蒙古少儿,url
 内蒙古文体娱乐,url
